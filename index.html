@@ -1,0 +1,55 @@
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Color Scheme Generator</title>
+         
+    </head>
+    <body>
+        <header>
+            <div class="header-div">
+                <div class="input">
+                    <label for="head"></label>
+                    <input type="color" id="head" name="head" value="#F55A5A">
+                </div>
+                <div class="select-color-div">
+                    <select id="select-color">
+                        <option value="Monochrome">Monochrome</option>
+                        <option value="Monochrome-dark">Monochrome-dark</option>
+                        <option value="Monochrome-light">Monochrome-light</option>
+                        <option value="Analogic">Analogic</option>
+                        <option value="Complement">Complement</option>
+                        <option value="Analogic-complement">Analogic-complement</option>
+                        <option value="Triad">Triad</option>
+                    </select>
+                </div>
+                <button id="color-btn">Get color scheme</button>
+            </div>
+        </header>
+        
+        <section class="color-scheme-section" id="color-scheme-section">
+            <div class="colors-bar-div">
+                <div class="stripe-section" style="background:#F55A5A"></div>
+                <div class="hexcode-section">#F55A5A</div>
+            </div>
+            <div class="colors-bar-div">
+                <div class="stripe-section" style="background: #2B283A"></div>
+                <div class="hexcode-section">#2B283A</div>
+            </div>
+            <div class="colors-bar-div">
+                <div class="stripe-section" style="background-color: #FBF3AB"></div>
+                <div class="hexcode-section">#FBF3AB</div>
+            </div>
+            <div class="colors-bar-div">
+                <div class="stripe-section" style="background-color: #AAD1B6"></div>
+                <div class="hexcode-section">#AAD1B6</div>
+            </div>
+            <div class="colors-bar-div">
+                <div class="stripe-section" style="background-color: #A626D3"></div>
+                <div class="hexcode-section">#A626D3</div>
+            </div>
+        </section>
+        
+       <script src="index.js"></script>
+    </body>
+</html>
