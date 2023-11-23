@@ -4,6 +4,10 @@ Hello there,
 
 This is my another project which is about  color scheme. In this site you can get different types of color and change them. I am so much happy that I am sharing my project with all of you. Thank you so much for your nice attention. 
 
+
+------
+
+
 ## Different Colors
 
 + Monochrome
@@ -18,7 +22,12 @@ This is my another project which is about  color scheme. In this site you can ge
 
 ![Alt text](image.png)
 
+
 ### Monochrome-dark
 
 ![Alt text](image-1.png)
 
+
+### Monochrome-light
+
+![Alt text](image-2.png)
