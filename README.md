@@ -53,6 +53,7 @@ This is my another project which is about  color scheme. In this site you can ge
 ![Alt text](image-6.png)
 
 
+-----
 
 ## Languages and Tools are used
 
@@ -62,4 +63,7 @@ This is my another project which is about  color scheme. In this site you can ge
     + [CSS](https://github.com/topics/css)
     + [CSS3](https://github.com/topics/css3)
     + [JavaScript](https://github.com/topics/javascript)
+
+-----
+
 
