@@ -82,5 +82,7 @@ This is my another project which is about  color scheme. In this site you can ge
 $ git clone https://github.com/MastooraTurkmen/Color-Scheme.git
 
 # Go inside the repository
+$ cd Color-Scheme
+
 ```
 
