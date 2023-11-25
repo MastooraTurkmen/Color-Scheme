@@ -79,6 +79,8 @@ This is my another project which is about  color scheme. In this site you can ge
 
 ```
 # Clone this repository
+$ git clone https://github.com/MastooraTurkmen/Color-Scheme.git
+
 
 ```
 
