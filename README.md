@@ -55,7 +55,7 @@ This is my another project which is about  color scheme. In this site you can ge
 
 -----
 
-## Languages and Tools are used
+## Languages and Tools are used 🗣️🔧
 
 1. **Languages** 🗣️
     + [HTML](https://github.com/topics/html)
