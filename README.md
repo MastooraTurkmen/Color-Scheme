@@ -64,7 +64,7 @@ This is my another project which is about  color scheme. In this site you can ge
     + [CSS3](https://github.com/topics/css3)
     + [JavaScript](https://github.com/topics/javascript)
 
-2. **Tools** 
+2. **Tools** 🔧
     + [Chrome](https://github.com/topics/chrome)
     + [VSCode](https://github.com/topics/vscode)
     + [Figma](https://github.com/topics/figma)
