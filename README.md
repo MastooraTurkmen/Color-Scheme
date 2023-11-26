@@ -99,3 +99,4 @@ $ cd Color-Scheme
 
 ------
 
+## Author 👩🏻‍💻 
