@@ -100,3 +100,5 @@ $ cd Color-Scheme
 ------
 
 ## Author 👩🏻‍💻 
+
+**Mastoora Turkmen**  
