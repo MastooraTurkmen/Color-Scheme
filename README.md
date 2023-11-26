@@ -95,3 +95,7 @@ $ cd Color-Scheme
 5. Then write your project name and select it.
 6. After selecting here you can see that the project **_Review configuration for Color-Scheme_** and then select the **_Deploy Color-Scheme_** Button.
 7. Now your project is Live.
+
+
+------
+
