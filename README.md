@@ -35,7 +35,7 @@ This is my another project which is about  color scheme. In this site you can ge
 
 ### Analogic
 
-![Alt text](image-3.png)
+![Alt text](./images/image-3.png)
 
 
 ### Complement
