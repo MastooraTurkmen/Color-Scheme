@@ -45,7 +45,7 @@ This is my another project which is about  color scheme. In this site you can ge
 
 ### Analogic-complement
 
-![Alt text](image-5.png)
+![Alt text](./images/image-5.png)
 
 
 ### Triad
