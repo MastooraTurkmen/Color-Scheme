@@ -50,7 +50,7 @@ This is my another project which is about  color scheme. In this site you can ge
 
 ### Triad
 
-![Alt text](image-6.png)
+![Alt text](./images/image-6.png)
 
 
 -----
