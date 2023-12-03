@@ -40,7 +40,7 @@ This is my another project which is about  color scheme. In this site you can ge
 
 ### Complement
 
-![Alt text](image-4.png)
+![Alt text](./images/image-4.png)
 
 
 ### Analogic-complement
