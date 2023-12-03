@@ -25,7 +25,7 @@ This is my another project which is about  color scheme. In this site you can ge
 
 ### Monochrome-dark
 
-![Alt text](image-1.png)
+![Alt text](./images/image-1.png)
 
 
 ### Monochrome-light
