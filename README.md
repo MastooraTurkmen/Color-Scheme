@@ -1,4 +1,4 @@
-# Color Scheme Generator
+# Color Scheme Generator 🎇🌅
 
 Hello there,
 
