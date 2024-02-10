@@ -4,6 +4,8 @@ Hello there,
 
 This is the best project which is about  color scheme. In this site you can get different types of color and change them.
 
+Live: [Color-Scheme-Generator](https://color-scheme-generator-site.netlify.app/)
+
 
 ------
 
